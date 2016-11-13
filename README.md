@@ -5,10 +5,9 @@ Source code and program to calculate fourier components of protein conservation 
 
 2. consMom: compiled executable
 
-Copyleft by Ashok Palaniappan and Eric Jakobsson.
+Usage:
+./consmom input-file block-length output-file
 
 Please contact Ashok (ashok@svce.ac.in) for further information.
 
-Usage:
-./consmom <input-file> <block-length> <output-file>
-
+Copyleft, Ashok Palaniappan and Eric Jakobsson.
