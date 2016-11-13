@@ -1,5 +1,5 @@
 # consMoment
-Source code and program to calculate conservation moments of protein alignments
+Source code and program to calculate fourier components of protein conservation patterns.
 
 1. consMom.c: source code
 
@@ -9,4 +9,6 @@ Copyleft by Ashok Palaniappan and Eric Jakobsson.
 
 Please contact Ashok (ashok@svce.ac.in) for further information.
 
-Code accompanies manuscript under review.
+Usage:
+./consmom <input-file> <block-length> <output-file>
+
