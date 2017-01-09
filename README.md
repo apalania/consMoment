@@ -10,6 +10,6 @@ Source code and program to calculate fourier components of protein conservation 
 Usage:
 ./consmom input-file block-length output-file
 
-Please contact Ashok (ashok@svce.ac.in) for further information.
+Please contact Dr Ashok (ashok@svce.ac.in) for further information.
 
 Copyleft, Ashok Palaniappan and Eric Jakobsson.
