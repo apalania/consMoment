@@ -10,6 +10,8 @@ Source code and program to calculate fourier components of protein conservation 
 Usage:
 ./consmom input-file block-length output-file
 
-Please contact Dr Ashok (ashok@svce.ac.in) for further information.
+Examples of usage could be found in the examples folder. Includes alignments of permeation pathway of potassium channels, and the voltage sensor of voltage-gated potassium channels. 
+
+Manuscript under submission. Please contact Dr Ashok (ashok@svce.ac.in) for help.
 
 Copyleft, Ashok Palaniappan and Eric Jakobsson.
