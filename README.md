@@ -14,6 +14,7 @@ Examples of usage could be found in the examples folder. Includes alignments of 
 
 Manuscript under submission. Code includes a discussion and calculation of Variability moments.
 
-Please contact Dr Ashok (ashok@svce.ac.in) or Prof. Eric Jakobsson (jake@illinois.edu) for help.
+Contact: Dr Ashok (ashok@svce.ac.in) or Prof. Eric Jakobsson (jake@illinois.edu).
+Under GPL 3.0 license.
 
-Copyleft, Ashok Palaniappan and Eric Jakobsson.
+
