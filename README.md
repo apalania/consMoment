@@ -3,11 +3,11 @@
 
 consMoment stands for "Conservation Moment."
 
-Authors: Ashok Palaniappan and Eric Jakobsson
+*Authors*: Ashok Palaniappan and Eric Jakobsson
 
-License: This code is licensed under the GPL version 3.0. Please see the file LICENSE.txt for details.
+*License*: This code is licensed under the GPL version 3.0. Please see the file LICENSE.txt for details.
 
-Repository: https://github.com/apalania/consMoment
+*Repository*: https://github.com/apalania/consMoment
 
 Source code and bin to calculate Fourier components of protein conservation patterns.
 
