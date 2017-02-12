@@ -1,7 +1,8 @@
 # consMoment
-[![DOI](https://www.zenodo.org/badge/72977187.svg)](https://www.zenodo.org/badge/latestdoi/72977187)
 
 consMoment stands for "Conservation Moment."
+
+[![DOI](https://www.zenodo.org/badge/72977187.svg)](https://www.zenodo.org/badge/latestdoi/72977187)
 
 *Authors*: Ashok Palaniappan and Eric Jakobsson
 
