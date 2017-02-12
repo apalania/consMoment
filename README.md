@@ -1,9 +1,17 @@
 # consMoment
 [![DOI](https://www.zenodo.org/badge/72977187.svg)](https://www.zenodo.org/badge/latestdoi/72977187)
 
-Source code and program to calculate fourier components of protein conservation patterns.
+consMoment stands for "Conservation Moment."
 
-1. consMom.c: source code
+Authors: Ashok Palaniappan and Eric Jakobsson
+
+License: This code is licensed under the GPL version 3.0. Please see the file LICENSE.txt for details.
+
+Repository: https://github.com/apalania/consMoment
+
+Source code and bin to calculate Fourier components of protein conservation patterns.
+
+1. consMom.c: source code (uses maths lib)
 
 2. consMom: compiled executable
 
@@ -15,6 +23,3 @@ Examples of usage could be found in the examples folder. Includes alignments of 
 Manuscript under submission. Code includes a discussion and calculation of Variability moments.
 
 Contact: Dr Ashok (ashok@svce.ac.in) or Prof. Eric Jakobsson (jake@illinois.edu).
-Under GPL 3.0 license.
-
-
