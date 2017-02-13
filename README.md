@@ -6,7 +6,7 @@ consMoment stands for "Conservation Moment."
 
 *Authors*: Ashok Palaniappan and Eric Jakobsson
 
-*License*: This code is licensed under the GPL version 3.0. Please see the file LICENSE.txt for details.
+*License*: This code is licensed under the GPL version 3.0. Please see the file LICENSE for details.
 
 *Repository*: https://github.com/apalania/consMoment
 
@@ -21,6 +21,6 @@ Usage:
 
 Examples of usage could be found in the examples folder. Includes alignments of permeation pathway of potassium channels, and the voltage sensor of voltage-gated potassium channels. 
 
-Manuscript under submission. Code includes a discussion and calculation of Variability moments.
+Manuscript accepted in CSBJ. Code includes a discussion and calculation of Variability moments.
 
 Contact: Dr Ashok (ashok@svce.ac.in) or Prof. Eric Jakobsson (jake@illinois.edu).
