@@ -10,7 +10,7 @@ consMoment stands for "Conservation Moment."
 
 *Repository*: https://github.com/apalania/consMoment
 
-Source code and bin to calculate Fourier components of protein conservation patterns.
+Source code and bin to compute Fourier components of protein conservation patterns.
 
 1. consMom.c: source code (uses maths lib)
 
