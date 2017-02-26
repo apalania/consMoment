@@ -21,6 +21,6 @@ Usage:
 
 Examples of usage could be found in the examples folder. Includes alignments of permeation pathway of potassium channels, and the voltage sensor of voltage-gated potassium channels. 
 
-Manuscript accepted in CSBJ. Code includes a discussion and calculation of Variability moments.
+Manuscript accepted in CSBJ (DOI: 10.1016/j.csbj.2017.02.002). Code includes a discussion and calculation of Variability moments.
 
 Contact: Dr Ashok (ashok@svce.ac.in) or Prof. Eric Jakobsson (jake@illinois.edu).
