@@ -6,7 +6,7 @@ consMoment stands for "Conservation Moment."
 
 *Authors*: Ashok Palaniappan and Eric Jakobsson
 
-*License*: This code is licensed under the GPL version 3.0. Please see the file LICENSE for details.
+*License*: This code is licensed under the GPL version 3.0. Please see LICENSE for details.
 
 *Repository*: https://github.com/apalania/consMoment
 
@@ -23,4 +23,4 @@ Examples of usage could be found in the examples folder. Includes alignments of 
 
 Manuscript accepted in CSBJ (DOI: 10.1016/j.csbj.2017.02.002). Code includes a discussion and calculation of Variability moments.
 
-Contact: Dr Ashok (ashok@svce.ac.in) or Prof. Eric Jakobsson (jake@illinois.edu).
+Contact: Dr Ashok Palaniappan (apalania@scbt.sastra.edu) or Prof. Eric Jakobsson (jake@illinois.edu).
